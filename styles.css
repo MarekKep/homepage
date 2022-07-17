@@ -1,0 +1,39 @@
+.text-center {
+  background-image: url("/background.jpg");
+  background-size: cover;
+  max-width: 100%;
+  height: 100%;
+  background-attachment: fixed;
+  color: white;
+}
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 400;
+}
+.nav-masthead {
+    margin-bottom: 50px;
+}
+p #topics-names {
+    color: yellow;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+}
+img {
+    width: 100%;
+    height: 100%;
+    border-radius: 40px;
+    border: 1px solid black;
+    margin-top: 30px;
+}
+main .lead {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 400;
+    text-decoration: none;
+}
